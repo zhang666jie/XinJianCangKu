@@ -1,0 +1,6 @@
+framework module Pods_HandCraft {
+  umbrella header "Pods-HandCraft-umbrella.h"
+
+  export *
+  module * { export * }
+}

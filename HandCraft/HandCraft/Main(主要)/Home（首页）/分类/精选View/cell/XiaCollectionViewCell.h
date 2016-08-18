@@ -1,0 +1,14 @@
+//
+//  XiaCollectionViewCell.h
+//  HandCraft
+//
+//  Created by Mac on 16/8/3.
+//  Copyright © 2016年 ZYJ. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface XiaCollectionViewCell : UICollectionViewCell
+@property (weak, nonatomic) IBOutlet UIImageView *xiaImage;
+
+@end
